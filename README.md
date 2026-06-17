@@ -68,7 +68,7 @@ No installs. No setup. Seriously.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/biblioverse.git
+git clone https://github.com/vanshika114/biblioverse.git
 cd biblioverse
 
 # Open in your browser
